@@ -1,0 +1,14 @@
+{
+	"name": "elieldepaula/ci_core",
+    "type": "package",
+    "description": "ci_core is the core of CodeIfniter Framework original from codeigniter.com.",
+    "authors": [
+        {
+            "name": "Eliel de Paula",
+            "email": "dev@elieldepaula.com.br"
+        }
+    ],
+	"require": {
+		"php": ">=5.3.0"
+	}
+}
