@@ -1,8 +1,8 @@
 {
-	"name": "elieldepaula/ci_core",
+    "name": "elieldepaula/ci_core",
     "type": "package",
     "license": "MIT",
-    "description": "ci_core is the core of CodeIfniter Framework original from codeigniter.com.",
+    "description": "ci_core is the core of CodeIgniter 2.x Framework original from codeigniter.com.",
     "authors": [
         {
             "name": "Eliel de Paula",
